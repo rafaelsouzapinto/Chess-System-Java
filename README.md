@@ -16,7 +16,7 @@ No tabuleiro, as peças são representadas por letras, sendo:
  Esse projeto foi desenvolvido durante o curso **Java COMPLETO Programação Orientada a Objetos** administrado pela [DevSuperior.](https://devsuperior.com.br "Site da DevSuperior")
 
  # Modelo conceitual
-![Modelo Conceitual](https://github.com/rafaelsouzapinto/Chess-System-Java/blob/main/imgs/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/rafaelsouzapinto/Chess-System-Java/blob/main/imgs/chess-system-design.png)
 
 # Como executar a aplicação
 - É necessário o gitBash instalado na máquina para rodar o programa.
