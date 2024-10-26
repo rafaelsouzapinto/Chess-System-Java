@@ -22,7 +22,7 @@ No tabuleiro, as peças são representadas por letras, sendo:
 - É necessário o gitBash instalado na máquina para rodar o programa.
 - Com a aplicação rodando da maquina e o Gitbash instalado, acessamos a pasta principal do projeto e entramos na pasta "bin".
 - Dentro da pasta bin, clicamos com o botão direito do mouse e selecionamos a opção "Open Git Bash here" para abrir o git bash na pasta bin.
-- Dentro do terminal do git bash, basta digitar o comando "java application/Program" exatamente dessa forma e a partida de xadrez irá iniciar.
+- Dentro do terminal do git bash, basta digitar o comando `java application/Program` exatamente dessa forma e a partida de xadrez irá iniciar.
 
 ## Autor ✏
 Antony Rafael Souza Pinto
