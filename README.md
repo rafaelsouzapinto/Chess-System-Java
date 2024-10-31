@@ -19,10 +19,17 @@ No tabuleiro, as peças são representadas por letras, sendo:
 ![Modelo Conceitual](https://github.com/rafaelsouzapinto/Chess-System-Java/blob/main/imgs/chess-system-design.png)
 
 ## Como executar a aplicação ✔
-- É necessário o gitBash instalado na máquina para rodar o programa.
+- Clonar repositório git:
+```
+https://github.com/rafaelsouzapinto/Chess-System-Java.git
+```
+- Instale o [git bash](https://git-scm.com/downloads).
 - Com a aplicação rodando da maquina e o Gitbash instalado, acessamos a pasta principal do projeto e entramos na pasta "bin".
 - Dentro da pasta bin, clicamos com o botão direito do mouse e selecionamos a opção "Open Git Bash here" para abrir o git bash na pasta bin.
-- Dentro do terminal do git bash, basta digitar o comando `java application/Program` exatamente dessa forma e a partida de xadrez irá iniciar.
+- Comando para executar a aplicação no gitbash:
+```
+java application/Program
+```
 
 ## Autor ✏
 Antony Rafael Souza Pinto
